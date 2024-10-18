@@ -1,0 +1,7 @@
+swatikagalkaracademy\pageObjects\CheckoutPage.class
+swatikagalkaracademy\pageObjects\LandingPage.class
+swatikagalkaracademy\pageObjects\AbstractComponent.class
+swatikagalkaracademy\pageObjects\CartPage.class
+swatikagalkaracademy\pageObjects\ConfirmationPage.class
+swatikagalkaracademy\pageObjects\OrderPage.class
+swatikagalkaracademy\pageObjects\ProductCatalogue.class
